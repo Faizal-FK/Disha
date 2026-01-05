@@ -31,6 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+target/
+.git
 
 .env
 application-local.properties
